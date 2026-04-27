@@ -35,7 +35,7 @@ Git GitHub VS Code
 📊 GitHub Stats
 🌐 Connect with Me
 💼 GitHub: https://github.com/Gamana
-📧 Email: your-email@example.com
+📧 Email: kartikkapadne2308@gmail.com
 ⚡ Fun Fact
 
 I turn ☕ into code and bugs into features 😄
